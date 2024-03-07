@@ -1,0 +1,97 @@
+.website-section {
+    padding: 80px 0 80px;
+    /* background-image: url("../../../src/img/websitebg.jpg"); */
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+    z-index: -1;
+  }
+
+  /* .website-section::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.85;
+    background-color: #240046;
+  } */
+  
+  .footer-image {
+    width: 100%;
+    height: 100%;
+    max-width: 1920px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    margin-top: -110px;
+  }
+  
+  .websites-section img {
+    max-width: 30%;
+    height: 50pxpx;
+  }
+  
+  .website-section h3 {
+    font-size: 16px;
+    text-align: center;
+    padding: 20px auto;
+    font-weight: 600;
+    line-height: 26px;
+    color: wheat;
+    margin: 0 0 2px;
+  }
+  
+  /* .website-section .testi-item {
+    background-color: white;
+    padding: 30px;
+    border-radius: 50px 50px 50px 0px;
+  }
+  
+  .website-section .testi-item p {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    margin: 0 0 10px;
+    font-style: italic;
+  }
+  
+  .website-section .testi-item p .fa-quote-left {
+    margin-right: 5px;
+    color: tomato;
+  }
+  
+  .website-section .testi-item p .fa-quote-right {
+    margin-left: 5px;
+    color: tomato;
+  }
+  
+  .website-section .client-info {
+    position: relative;
+    padding-left: 80px;
+    padding-top: 5px;
+    min-height: 60px;
+  }
+  
+  .website-section .client-info img {
+    height: 70px;
+    width: 70px;
+    border: 2px solid transparent;
+    border-color: black;
+    left: 0;
+    top: 0;
+    border-radius: 50%;
+    position: absolute;
+  }
+  
+ 
+  
+  .website-section .client-info p {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    margin: 0;
+  }
+   */
